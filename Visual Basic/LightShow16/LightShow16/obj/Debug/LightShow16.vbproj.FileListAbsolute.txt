@@ -1,0 +1,13 @@
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\bin\Debug\LightShow16.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\bin\Debug\LightShow16.exe
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\bin\Debug\LightShow16.pdb
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\bin\Debug\LightShow16.xml
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.frmConnect.resources
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.frmMain.resources
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.vbproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.exe
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.xml
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.pdb
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\Interop.WMPLib.dll
+c:\users\matt\documents\visual studio 2013\Projects\LightShow16\LightShow16\obj\Debug\LightShow16.vbproj.ResolveComReference.cache

@@ -1,0 +1,13 @@
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\bin\Debug\MusicPlayerTest.exe.config
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\bin\Debug\MusicPlayerTest.exe
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\bin\Debug\MusicPlayerTest.pdb
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\bin\Debug\MusicPlayerTest.xml
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.Form1.resources
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.Resources.resources
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.exe
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.xml
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.pdb
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\Interop.WMPLib.dll
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\MusicPlayerTest.vbproj.ResolveComReference.cache
+d:\documents\visual studio 2013\Projects\MusicPlayerTest\MusicPlayerTest\obj\Debug\Interop.MediaPlayer.dll
